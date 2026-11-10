@@ -49,7 +49,7 @@ to. `screenshots` captures the app's screens and writes a README table of them.
 ## Get it
 
 In Craft, install Docs from the Agent Store, or run
-`craft agents add https://github.com/Rao-Craft-Agents/DocumentationAgent.git`, then say `$docs` in a request.
+`craft agents add https://github.com/rao-craft/DocumentationAgent.git`, then say `$docs` in a request.
 
 ## Requirements
 

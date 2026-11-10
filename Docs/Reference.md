@@ -14,7 +14,7 @@ let documentationRecord: GraniteRoster.Record = { GraniteRoster.record(Documenta
 ```
 
 In Craft, install it from the Agent Store or with
-`craft agents add https://github.com/Rao-Craft-Agents/DocumentationAgent.git`, then say `$docs` in a request:
+`craft agents add https://github.com/rao-craft/DocumentationAgent.git`, then say `$docs` in a request:
 
 ```
 $docs a site for this project, with a trail for saving a recipe, and the ask orb
