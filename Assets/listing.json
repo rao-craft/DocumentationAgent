@@ -15,5 +15,12 @@
   "platforms": [
     "macOS 14"
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "illustrations": [
+    {
+      "path": "Assets/illustrations/what-you-get.png",
+      "alt": "A README for a pantry app beside its documentation site: folders and search at the side, a trail from the recipe editor through two services, and an ask orb.",
+      "caption": "A README and a browsable site, written from your code."
+    }
+  ]
 }
